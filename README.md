@@ -27,3 +27,5 @@ These learning goals have been combined to bring you ‘NBA-Stats’. This one-p
 
 * **API Endpoints:**
 https://rapidapi.com/api-sports/api/api-nba/
+
+Still have to enable backend API
