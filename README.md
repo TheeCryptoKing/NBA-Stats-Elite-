@@ -1,7 +1,6 @@
 # NBA-Stats
 
 * **Project Members:**
-  * Cody Delzer
   * Collin Shakes
   * Eli Dawson
   * Kwame Browne
