@@ -1,0 +1,181 @@
+/* masthead is display and edits for font and  sizing in front display */
+.masthead {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("https://i.imgur.com/q8H5Apo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.masthead h2, .masthead .h2 {
+  max-width: 20rem;
+  font-size: 1rem;
+}
+/* media nodes are editing size of display when the screen changes from computer, mobile, or tablet can apply to any class or id i.e. masthead */
+@media (min-width: 768px) {
+  .masthead h1, .masthead .h1 {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+}
+@media (min-width: 992px) {
+  .masthead {
+    height: 100vh;
+    padding: 0;
+  }
+  .masthead h1, .masthead .h1 {
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.8rem;
+  }
+  .masthead h2, .masthead .h2 {
+    max-width: 30rem;
+    font-size: 1.25rem;
+  }
+}
+/* btn primary is red get started button */
+.btn-primary {
+  background-color: red;
+  border: none;
+}
+/* creating hover event over orimary button  */
+.btn-primary:hover {
+background-color: rgb(238, 105, 105);
+}
+/*  player search styling for button */
+#player-search {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+/* card collection container edit */
+#card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+/* card css styling image an colors and editing for background of cards photo what used to be img fluid  */
+#new-collection {
+  background: url("https://i.imgur.com/Jdgh3pX.jpg");
+  background-repeat: no-repeat;
+  background-size: contains;
+  background-color:#080808;
+  background-position: center;
+  min-height: 360px;
+}
+#new-collection h2 {
+  text-align: center;
+}
+/* collection created when cards are appened */
+#personal-collection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+/* section styling above input boxes  */
+.about-section {
+  padding-top: 15rem;
+  background-color:#080808
+}
+.about-section p {
+  margin-bottom: 5rem;
+}
+/* card styling */
+.card {
+border: 1px solid #ccc;
+width: 300px;
+height: 475px;
+padding: 20px;
+text-align: center;
+background-image: url("https://i.imgur.com/gUWeMoF.jpg");
+background-position: center;
+color: rgb(179, 179, 179);
+margin: auto;
+}
+.card img {
+width: 25%;
+display: block;
+margin: 0 auto;
+}
+.card h1, h2, h3, h4, h5 ,h6 {
+font-size: medium;
+}
+.card p {
+  margin-bottom: 5px;
+}
+/* buttons and their css edits  */
+#player-name{/*fix*/
+  background: red;
+  color: rgb(255, 255, 255);
+  border-color: white;
+  width: 150px;
+  height: 45px;
+  margin: auto;
+}
+input[type="number"] {
+  background: red;
+  border-color: white;
+  width: 150px;
+  height: 45px;
+  margin: auto;
+}
+.comment-field {
+  background: red;
+}
+button {
+  background: black;
+  color: rgb(179, 179, 179);
+  width:100px;
+  margin: auto;
+}
+.card-button{
+  background: black;
+  color: rgb(179, 179, 179);
+  width: 200px;
+  padding: 0px;
+  margin:auto;
+  margin-top: 2px;
+  margin-bottom: 2px;
+
+}
+button:hover {
+  background-color: rgb(209, 98, 98);
+}
+/* personal collection Title for collection needs font styling  */
+#editPersonal {
+  color: rgb(179, 179, 179);
+  font-size: 70px;
+}
+/*mobile view for tablet and mobile*/
+/* essential for fully published website */
+@media (max-width: 1024px) {
+  #editPersonal {
+    font-size: 30px;
+  }
+}
+
+#player-search {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+#season {
+  color: rgb(255, 255, 255);
+}
+
+::placeholder {
+  color:white;
+  opacity: 1;
+}
+input{
+  text-align: center
+}
+
+.comment-field {
+  width: 225px;
+  margin: auto;
+  margin-bottom: 20px;
+}

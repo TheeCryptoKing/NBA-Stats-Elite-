@@ -1,0 +1,17 @@
+{
+  "cards": [
+    {
+      "name": "LeBron James",
+      "jersey": 6,
+      "height": "6ft 9in",
+      "weight": "250",
+      "college": "St. Vincent-St. Mary HS (OH)",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png",
+      "assists": 418,
+      "points": 1323,
+      "season": "2020",
+      "comment": "",
+      "id": 1
+    }
+  ]
+}
