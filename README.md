@@ -1,4 +1,7 @@
-# NBA-Stats
+* **Steps to Run:**
+  1. git clone to local machine
+  2. 
+  3. run "npm install"
 
 * **Project Members:**
   * Collin Shakes
@@ -18,14 +21,9 @@
   * Manipulate API data by array iteration;
   * Use JSON Communication;
 
-* **GitHub Repository:**
-(https://github.com/TheeCryptoKing/NBA-Stats-Elite-)
-
-**Introduction:**
-
-These learning goals have been combined to bring you ‘NBA-Stats’. This one-page app contains an index.html, script.js, and style.css that accesses data from a public API. An image file will be created for the website tab. ‘NBA-Stats’ will allow the user to 'search' a player and see the player's stats from the current season. The information returned from the server will be displayed on a collector's style sports card. The user will be able to 'add' a player's card to a 'Personal Collection' which will display all cards inside the 'div' with an id of personal-collection.
+**Summary:**
+App to create, search, and save your favorite NBA players from any Era! Perfect for any Entusiats or collecting stats on current fantasy teams. 
 
 * **API Endpoints:**
 https://rapidapi.com/api-sports/api/api-nba/
 
-Still have to enable backend API
