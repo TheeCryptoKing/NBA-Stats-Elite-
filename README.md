@@ -1,4 +1,7 @@
 <h1><a href="https://tangerine-lolly-52e65e.netlify.app"> Visit Link! </a></h1>
+Might ask you to go "Back to our site", if so click it and the link will redirect you.<br/>
+Might need a minute or 2 for the server to load, will be changing shortly.
+
 
 * **Steps to Run:**
   1. git clone to local machine
