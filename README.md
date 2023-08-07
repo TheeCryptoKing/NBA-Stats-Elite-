@@ -1,6 +1,9 @@
 <h1><a href="https://tangerine-lolly-52e65e.netlify.app"> Visit Link! </a></h1>
-Might ask you to go "Back to our site", if so click it and the link will redirect you.<br/>
-Might need a minute or 2 for the server to load, will be changing shortly.
+<p> 
+    Might ask you to go "Back to our site", if so click it and the link will redirect you.<br>
+    Might need a minute or 2 for the server to load, will be changing shortly.<br>
+</p>
+
 
 
 * **Steps to Run:**
