@@ -1,7 +1,6 @@
 * **Steps to Run:**
   1. git clone to local machine
-  2. cd inside folder
-  3. run "json-server --watch db.json"
+  2. run "json-server --watch db.json"
 
 * **Project Members:**
   * Collin Shakes
