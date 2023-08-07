@@ -1,4 +1,6 @@
-# NBA-Stats
+* **Steps to Run:**
+  1. git clone to local machine
+  2. run "json-server --watch db.json"
 
 * **Project Members:**
   * Collin Shakes
@@ -23,3 +25,4 @@ App to create, search, and save your favorite NBA players from any Era! Perfect 
 
 * **API Endpoints:**
 https://rapidapi.com/api-sports/api/api-nba/
+
