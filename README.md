@@ -1,6 +1,7 @@
 * **Steps to Run:**
   1. git clone to local machine
-  2. run "json-server --watch db.json"
+  2. run server. We have ran code in vscode(should be able to load server. if problems download extension "five server" and enable)
+  3. run "json-server --watch db.json"
 
 * **Project Members:**
   * Collin Shakes
