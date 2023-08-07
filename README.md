@@ -19,7 +19,7 @@
   * Use JSON Communication;
 
 * **GitHub Repository:**
-(https://github.com/tyblackwell/NBA-Stats)
+<!-- (https://github.com/tyblackwell/NBA-Stats) -->
 
 **Introduction:**
 
